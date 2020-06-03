@@ -1,0 +1,12 @@
+body {
+    font-size: large;
+}
+a {
+    color: black;
+    padding: 2px;
+    border: 3px green solid;
+    text-decoration: none;
+}
+p {
+    font-style: bold;
+}
